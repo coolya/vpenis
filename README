@@ -1,1 +1,10 @@
 The ultimate Android Benchmark
+
+Download the ZIP
+Extract it
+push the 'vpenis.sh' to the phone (you can use 'adb push vpenis.sh /data' for this)
+open 'adb shell' to the phone
+cd to the data directory (cd /data)
+make the script exectuable ( chmod +x vpenis.sh)
+run it './vpenis.sh' (don't care about any error it will display)
+
